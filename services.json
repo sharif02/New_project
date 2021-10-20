@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Nose Operation ",
+        "drname": "nelson mandela",
+        "courseFee": "$1200",
+        "url": "https://image.freepik.com/free-photo/nurse-talking-with-child-writing-girl-symptoms-laptop-physician-doctor-specialist-medicine-providing-health-care-services-consultation-diagnostic-examination-treatment-hospital-cabinet_482257-14530.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+        "serviceDetails": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+        "id": 2,
+        "serviceName": "Phscology",
+        "drname": "Rock",
+        "courseFee": "$1200",
+        "url": "https://img.freepik.com/free-photo/healthcare-workers-prevent-virus-insurance-medicine-concept-smiling-attractive-female-doctor-nurse-blue-scrubs-pointing-fingers-left-show-patients-advertisement-important-info_1258-57267.jpg?size=338&ext=jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/771796",
+        "serviceDetails": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+        "id": 3,
+        "serviceName": "Dental Improvemnet",
+        "drname": "Arif Mahmud",
+        "courseFee": "$1200",
+        "serviceDetails": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+        "url": "https://image.freepik.com/free-photo/close-up-girl-patient-lying-stomatological-chair-with-open-mouth-during-dental-examination-stomatologist-with-mask-holding-sterilized-tools-checking-teeth-health-kid-before-intervation_482257-3497.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+        "id": 4,
+        "serviceName": "X-ray Report",
+        "drname": "Muntasir",
+        "courseFee": "$1200",
+        "serviceDetails": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "url": "https://image.freepik.com/free-photo/dentist-with-coverall-holding-mouth-x-ray-image-child-patient-talking-with-patient-mother-during-global-pandemic-assistant-doctor-talking-wearing-suit-coverall-protection-suit-mask-gloves_482257-3508.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+        "id": 5,
+        "serviceName": "ECG Report ",
+        "drname": "Sharif ",
+        "courseFee": "$1200",
+        "url": "https://as2.ftcdn.net/v2/jpg/02/01/70/81/500_F_201708199_t8VMppLbX55eLvnMG1CNWQNqLxQxfk2O.jpg",
+        "serviceDetails": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+        "id": 6,
+        "serviceName": "Blood Test ",
+        "drname": "Javascript",
+        "constractor": "Jhongkar Mahbub",
+        "courseFee": "$1200",
+        "serviceDetails": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "url": "https://as2.ftcdn.net/v2/jpg/02/11/04/53/500_F_211045328_HnemU2NVFNwDWnQtDi5JHeHVhMV1jTOr.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+        "id": 7,
+        "serviceName": "Health And Nutration",
+        "drname": "Sumit Vai",
+        "courseFee": "$1200",
+        "serviceDetails": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+        "url": "https://as1.ftcdn.net/v2/jpg/02/16/30/24/500_F_216302404_4xVc7gYo5HJr1M9qLM5lUmFwomfdunio.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    },
+    {
+        "id": 8,
+        "serviceName": "Urine Test",
+        "drname": "josh ",
+        "courseFee": "$1200",
+        "serviceDetails": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
+        "url": "https://as1.ftcdn.net/v2/jpg/02/00/63/44/500_F_200634426_XlSfjJTw4y49AbWdJNNLCXvDopoHPhDm.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+    },
+    {
+        "id": 9,
+        "serviceName": "Sugar test",
+        "drname": "Julkarnine",
+        "courseFee": "$1200",
+        "serviceDetails": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
+        "url": "https://as1.ftcdn.net/v2/jpg/01/81/41/36/500_F_181413640_s8Pzq5NxaDHHT57OTwOuUyGE74HYTRBB.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+    }
+]
